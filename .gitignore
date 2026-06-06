@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor
+.vscode/*
+!.vscode/settings.json
+
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Temporary files
+tmp/
+output/
